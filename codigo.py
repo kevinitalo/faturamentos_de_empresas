@@ -30,4 +30,3 @@ Fico à disposição
 At.te
 Kevin Italo"""
 print(mensagem)
-print("George was here")
